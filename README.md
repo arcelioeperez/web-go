@@ -1,6 +1,6 @@
-# Writing Web Applications 
+**This code was from the "Writing Web Applications" tutorial at [golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)**  
 
-**This code could be found at [golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)**  
+# Writing Web Applications 
 
 The run and build instructions might not work on Windows. MacOS, Linux, or any
 \*Unix based system should not have any problems running the code. 
