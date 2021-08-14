@@ -1,7 +1,7 @@
 # Writing Web Applications 
 
 The run and build instructions might not work on Windows. MacOS, Linux, or any
-\*nix based system should not have any problems running the code. 
+\*Unix based system should not have any problems running the code. 
 
 Install Go on MacOS with: 
 ```
