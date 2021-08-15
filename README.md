@@ -1,4 +1,4 @@
-**This code was from the "Writing Web Applications" tutorial at [golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)**  
+**Code from: "Writing Web Applications" tutorial at [golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)**  
 
 # Writing Web Applications 
 
